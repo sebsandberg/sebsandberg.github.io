@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport"  content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
@@ -11,7 +11,7 @@
     <title>Sebastian Sandberg - Developer</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -23,7 +23,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     
     <!-- Custom styles for this template -->
-    <link href="css/carousel.css" rel="stylesheet">
+    <link href="/css/carousel.css" rel="stylesheet">
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -44,8 +44,20 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="index.html">Home</a></li>
-                <li class="active"><a href="#">Developer</a></li>
+                <li><a href="/">Home</a></li>
+                <!-- DROPDOWN
+                ======================================================== -->
+                <li class="dropdown">
+                  <a href="/developer/" class="dropdown-toggle" data-toggle="dropdown">Projects <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/developer/projects/brief/">Brief</a></li>
+                    <li><a href="/developer/projects/tag-n-play/">Tag-n-play</a></li>
+                  </ul>
+                </li>
+                <!--
+                ========================
+              -->
+                <li class="active"><a href="#"></a></li>
                 <li><a href="http://se.linkedin.com/in/sebsandberg">LinkedIn profile</a></li>
                 <li><a href="mailto:seb.sandberg@gmail.com">Contact</a></li>
                 <!-- DROPDOWN
@@ -95,9 +107,9 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" src="img/brief-logo.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <img class="img-circle" src="/img/brief-logo.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
           <h2>Brief</h2>
-          <p>A project developed at the Techcrunch Disrupt EU Hackathon. It's a web app for ad-hoc networking. Enter your location and timeslot available, and you'll be matched against other people with the same timeslot. When you choose to accept someone, you'll be presented with a coffee shop midway with directions.</p>
+          <p>Brief is an app to showcase your available time slots in your schedule. You fill in your location and time, and then you are matched with people that also are up for a brief moment. Created during the TechCrunch Disrupt Europe Hackathon 2014</p>
           <p><a class="btn btn-default" href="http://challengepost.com/software/brief" role="button">View details on challengepost.com &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -108,18 +120,14 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>DatE-IT</h2>
-          <p>The workfair for Computer Science Engineering, Electrical Engineering and Software Engineering programs at Chalmers University of Technology. I am currently the project leader of the fair.</p>
-          <p><a class="btn btn-default" href="http://www.date-it.se" role="button">DatE-IT.se &raquo;</a></p>
+          <h2>Bobo the panda</h2>
+          <p>A simple 2D game developed using the slick sdk and java.</p>
+          <p><a class="btn btn-default" href="" role="button">View details&raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
 
-      <div class="col-md-4">Brief:<p class="lead">Brief is an app to showcase your available time slots in your schedule. You fill in your location and time, and then you are matched with people that also are up for a brief moment. Created during the TechCrunch Disrupt Europe Hackathon 2014</p></div>
 
-      <div class="col-md-4">Brief:<p class="lead">Brief is an app to showcase your available time slots in your schedule. You fill in your location and time, and then you are matched with people that also are up for a brief moment. Created during the TechCrunch Disrupt Europe Hackathon 2014</p></div>
-
-      <div class="col-md-4">Brief:<p class="lead">Brief is an app to showcase your available time slots in your schedule. You fill in your location and time, and then you are matched with people that also are up for a brief moment. Created during the TechCrunch Disrupt Europe Hackathon 2014</p></div>
 
       <!-- START THE FEATURETTES -->
 <!--
@@ -179,7 +187,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src=" js/bootstrap.min.js"></script>
+    <script src=" /js/bootstrap.min.js"></script>
     <script src="../../assets/js/docs.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
