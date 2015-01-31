@@ -1,0 +1,67 @@
+/**
+*	one page developer page
+*/
+
+h2.about-title{
+	text-align: left;
+}
+
+p.about-text{
+	
+}
+
+#about-me h2{
+    text-align: left,
+}
+
+#about-me p{
+    text-align: left;
+    font-size: 15px;
+    max-width: 400px;
+}
+ .separator {
+    padding: 0;
+    max-width: 2px;
+    border: 0;
+    border-top: solid 300px;
+    text-align: center;
+}
+
+
+#latest-activity hr{
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 150px;
+    border: 0;
+    border-top: solid 2px;
+    text-align: center;
+}
+
+h6.job-title{
+
+	color: white;
+	font-family: 'IM Fell French Canon', serif;
+
+}
+
+
+h6.job-location{
+
+
+	text-transform: none;
+	color: white;
+	font-style: italic;
+	font-family: 'IM Fell French Canon', serif;
+
+}
+
+hr.job-separator {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 150px;
+    border: 0;
+    border-top: solid 2px;
+    text-align: center;
+}
+
+
