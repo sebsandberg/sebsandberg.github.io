@@ -36,7 +36,7 @@
             "Country": "Sverige",
             "Rating": "10"
         }
-        
+
         {
             "OrganisationNumber": "5555-123456",
             "CompanyName": "Endeavor",
@@ -64,7 +64,7 @@
             "Country": "Sverige",
             "Rating": "10"
         },
-        
+
         {
             "OrganisationNumber": "5555-123456",
             "CompanyName": "Endeavor",
@@ -92,7 +92,7 @@
             "Country": "Sverige",
             "Rating": "10"
         },
-        
+
         {
             "OrganisationNumber": "5555-123456",
             "CompanyName": "Endeavor",
@@ -120,7 +120,7 @@
             "Country": "Sverige",
             "Rating": "10"
         },
-        
+
         {
             "OrganisationNumber": "5555-123456",
             "CompanyName": "Endeavor",
@@ -148,7 +148,7 @@
             "Country": "Sverige",
             "Rating": "10"
         },
-        
+
         {
             "OrganisationNumber": "5555-123456",
             "CompanyName": "Endeavor",
@@ -175,43 +175,43 @@
             "City": "Falkenberg",
             "Country": "Sverige",
             "Rating": "10"
-                
-        {
-            "OrganisationNumber": "5555-123456",
-            "CompanyName": "Endeavor",
-            "Address": "Norra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
         },
-        {
-            "OrganisationNumber": "5555-123457",
-            "CompanyName": "Acme",
-            "Address": "Södra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123456",
-            "CompanyName": "Endeavor",
-            "Address": "Norra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123457",
-            "CompanyName": "Acme",
-            "Address": "Södra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
+            {
+                "OrganisationNumber": "5555-123456",
+                "CompanyName": "Endeavor",
+                "Address": "Norra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123457",
+                "CompanyName": "Acme",
+                "Address": "Södra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123456",
+                "CompanyName": "Endeavor",
+                "Address": "Norra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123457",
+                "CompanyName": "Acme",
+                "Address": "Södra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
             {
                 "OrganisationNumber": "5555-123412",
                 "CompanyName": "Takbygg AB",
@@ -221,25 +221,25 @@
                 "Country": "Sverige",
                 "Rating": "10"
             },
-            
-        {
-            "OrganisationNumber": "5555-123456",
-            "CompanyName": "Endeavor",
-            "Address": "Norra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123457",
-            "CompanyName": "Acme",
-            "Address": "Södra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
+
+            {
+                "OrganisationNumber": "5555-123456",
+                "CompanyName": "Endeavor",
+                "Address": "Norra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123457",
+                "CompanyName": "Acme",
+                "Address": "Södra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
             {
                 "OrganisationNumber": "5555-123412",
                 "CompanyName": "Takbygg AB",
@@ -249,52 +249,25 @@
                 "Country": "Sverige",
                 "Rating": "10"
             },
-            
-        {
-            "OrganisationNumber": "5555-123456",
-            "CompanyName": "Endeavor",
-            "Address": "Norra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123457",
-            "CompanyName": "Acme",
-            "Address": "Södra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123412",
-            "CompanyName": "Takbygg AB",
-            "Address": "Storgatan 1",
-            "PostCode": "311 46",
-            "City": "Falkenberg",
-            "Country": "Sverige",
-            "Rating": "10"
-                
-        {
-            "OrganisationNumber": "5555-123456",
-            "CompanyName": "Endeavor",
-            "Address": "Norra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123457",
-            "CompanyName": "Acme",
-            "Address": "Södra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
+
+            {
+                "OrganisationNumber": "5555-123456",
+                "CompanyName": "Endeavor",
+                "Address": "Norra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123457",
+                "CompanyName": "Acme",
+                "Address": "Södra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
             {
                 "OrganisationNumber": "5555-123412",
                 "CompanyName": "Takbygg AB",
@@ -304,25 +277,60 @@
                 "Country": "Sverige",
                 "Rating": "10"
             },
-            
-        {
-            "OrganisationNumber": "5555-123456",
-            "CompanyName": "Endeavor",
-            "Address": "Norra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123457",
-            "CompanyName": "Acme",
-            "Address": "Södra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
+            {
+                "OrganisationNumber": "5555-123456",
+                "CompanyName": "Endeavor",
+                "Address": "Norra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123457",
+                "CompanyName": "Acme",
+                "Address": "Södra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123456",
+                "CompanyName": "Endeavor",
+                "Address": "Norra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123457",
+                "CompanyName": "Acme",
+                "Address": "Södra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123456",
+                "CompanyName": "Endeavor",
+                "Address": "Norra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
+            {
+                "OrganisationNumber": "5555-123457",
+                "CompanyName": "Acme",
+                "Address": "Södra liden 2A",
+                "PostCode": "411 18",
+                "City": "Göteborg",
+                "Country": "Sverige",
+                "Rating": "10"
+            },
             {
                 "OrganisationNumber": "5555-123412",
                 "CompanyName": "Takbygg AB",
@@ -331,34 +339,6 @@
                 "City": "Falkenberg",
                 "Country": "Sverige",
                 "Rating": "10"
-            },
-            
-        {
-            "OrganisationNumber": "5555-123456",
-            "CompanyName": "Endeavor",
-            "Address": "Norra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123457",
-            "CompanyName": "Acme",
-            "Address": "Södra liden 2A",
-            "PostCode": "411 18",
-            "City": "Göteborg",
-            "Country": "Sverige",
-            "Rating": "10"
-        },
-        {
-            "OrganisationNumber": "5555-123412",
-            "CompanyName": "Takbygg AB",
-            "Address": "Storgatan 1",
-            "PostCode": "311 46",
-            "City": "Falkenberg",
-            "Country": "Sverige",
-            "Rating": "10"
+            }
+            ]
         }
-    ]
-}
