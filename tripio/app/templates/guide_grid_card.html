@@ -1,0 +1,12 @@
+<div class="a-card">
+<!--	<img src="" data-ng-src="{{card.src}}"-->
+	<div class="guide-image" style="background-image:url('{{card.src}}')"></div>
+	<div class="card-bottom">
+		<div class="guide-name"><span>{{card.title}}</span></div>
+		<div class="guide-rating"></div>
+		<div class="guide-description"><span>The best party-animal you’d ever meet in the whole of UK.</span></div>
+		<ul>
+			<li ng-repeat="t1 in card.tag">{{t1}}</li>
+		</ul>
+	</div>
+</div>
