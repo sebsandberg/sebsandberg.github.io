@@ -258,6 +258,14 @@ header .header-content .header-content-inner p {
     margin-bottom: 0;
 }
 
+#winwingraph {
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+    text-align: center;
+    color: #fff;
+}
+
 .portfolio-box {
     display: block;
     position: relative;
